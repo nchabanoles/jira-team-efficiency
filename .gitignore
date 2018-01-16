@@ -1,0 +1,10 @@
+target/
+*.iml
+.idea
+*.cfg
+.classpath
+.project
+.settings/
+.gradle/
+build/
+
